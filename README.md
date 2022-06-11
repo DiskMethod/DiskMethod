@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lucas! I recently graduated with a major in Computer Science (B.S.) along with minors in Mathematics and Economics from UMass Amherst
 - 👀 I’m interested in web development, algorithms, and data structures
-- 🌱 I’m currently on a mission to learn React so that I can finally realize an idea
+- 🌱 I’m currently on a mission to learn React
 
 Here on GitHub I upload most of my work so that I can keep track of my progress while simultaneously keeping me motivated.
 
